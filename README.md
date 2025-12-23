@@ -112,4 +112,5 @@ Delhi India, 800, 09:00, 17:00
 ## 🔗 Links
 
 Live Demo: https://huggingface.co/spaces/Sanju01198/AI-Powered_Multi-City_Route_Optimization_System  
-GitHub: https://github.com/Shraddha191102/Flipr-Hackathon-30.2---AI-Powered-Multi-City-Route-Optimization-System.git
+GitHub: https://github.com/Sanju01198/AI-Powered_Multi_City_Route_Optimization_System
+Demo video: https://drive.google.com/file/d/1GUPkIJgfsSeYqyjBFau3NPWxh7_70i_9/view?usp=sharing
